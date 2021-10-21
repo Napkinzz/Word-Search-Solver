@@ -1,13 +1,9 @@
-# ASSIGNMENT 2 TEAM 16
+# ASSIGNMENT 2
 ## The Information of the Creator:
 
 ***ASSIGNMENT 2***                                                           
-  **Author:** Lukas Waschuk   
-  **OneCard:** 1660570           
+  **Author:** Lukas Waschuk    
   **CCID:** lwaschuk   
-  **Instructor:** Ildar Akhmetov                 
-  **Lecture Section:** B1   
-  **Lab Section:** H04    
   **Date:** 03-20-2021                               
 
 ### The Purpose of Your Program:
